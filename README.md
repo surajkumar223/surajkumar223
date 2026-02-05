@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on FULL-STACK [E-commerce](https://e-bharat-e-commerce.netlify.app/)
 
-- 🌱 I’m currently learning **React.js, JavaScript, Node.js, AI/ML, Node.js etc..c.**
+- 🌱 I’m currently learning **React.js, JavaScript, Node.js, AI/ML, Node.js etc..**
 
 - 👯 I’m looking to collaborate on [Weather App](https://weather-app30223.netlify.app/)
 
