@@ -13,9 +13,7 @@
 
 - 👯 I’m looking to collaborate on [Weather App](https://weather-app30223.netlify.app/)
 
-- 🤝 I’m looking for help with [Portfolio](https://suraj-portfolio-223.netlify.app/)
-
-- 👨‍💻 All of my projects are available at [https://suraj-portfolio-223.netlify.app/](https://suraj-portfolio-223.netlify.app/)
+-  👨‍💻 All of my projects are available at [Portfolio](https://suraj-portfolio-223.netlify.app/)
 
 - 📫 How to reach me **kumarsuraj4u1@gmail.com**
 
