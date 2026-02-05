@@ -5,9 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surajkumar223" alt="surajkumar223" /></a> </p>
 
-- 🔭 I’m currently working on FULL-STACK [E-commerce](https://e-bharat-e-commerce.netlify.app/)
+- 🔭 I’m currently working on a full-stack [E-commerce](https://e-bharat-e-commerce.netlify.app/)
 
-- 🌱 I’m currently learning **React.js, JavaScript, Node.js, AI/ML, Node.js etc..**
+- 🌱 I’m currently learning **React.js, JavaScript, Node.js, Express.js, REST APIs, WebSockets, Firebase, PostgreSQL, MongoDB.**
+
+
 
 - 👯 I’m looking to collaborate on [Weather App](https://weather-app30223.netlify.app/)
 
